@@ -1,0 +1,7 @@
+Add a local.properties file with the correct path below in this directory
+
+Windows
+sdk.dir = C:/Users/USERNAME/AppData/Local/Android/sdk
+
+Linux or MacOS
+sdk.dir = /home/USERNAME/Android/sdk
